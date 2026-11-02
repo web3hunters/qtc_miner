@@ -1,4 +1,4 @@
-# 1. QTC
+# 1. Quantus(QTC)
 **矿池** https://pool.kryptex.com/qtc
 
 **Windows 系统挖矿脚本** 
