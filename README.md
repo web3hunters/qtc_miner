@@ -3,12 +3,12 @@
 
 **Windows 系统挖矿脚本** 
 
-https://github.com/web3hunters/pearl_miner/releases/download/pearl_miner/pearl_windows.zip
+https://github.com/web3hunters/qtc_miner/releases/download/qtc_miner/qtc-windows.zip
 
 **Linux 系统挖矿脚本**
 
-https://github.com/web3hunters/pearl_miner/releases/download/pearl_miner/pearl_linux.zip
+https://github.com/web3hunters/qtc_miner/releases/download/qtc_miner/qtc-linux.zip
 
 **Hiveos 系统挖矿脚本**
 
-https://github.com/web3hunters/pearl_miner/releases/download/pearl_miner/pearl_hiveos.zip
+https://github.com/web3hunters/qtc_miner/releases/download/qtc_miner/qtc-hiveos.zip
